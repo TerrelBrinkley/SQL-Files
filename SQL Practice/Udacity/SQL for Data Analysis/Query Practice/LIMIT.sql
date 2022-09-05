@@ -3,4 +3,4 @@
 /* Query that displays specific data from web_events table
  that also has a set LIMIT of 15 */
 
-SELECT occurred_at, account_id, channel FROM web_events LIMIT 15 
+SELECT occurred_at, account_id, channel FROM web_events LIMIT 15;
