@@ -1,6 +1,6 @@
 -- Active: 1662349583320@@127.0.0.1@5432@parch
 
-/* Pulling Total Amounts USD via WHERE */
+/* Pulling only data that matches 'Exxon Mobil' */
 
 SELECT
     name,
